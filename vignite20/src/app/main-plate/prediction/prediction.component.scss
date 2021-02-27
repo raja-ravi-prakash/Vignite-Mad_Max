@@ -1,0 +1,9 @@
+.prediction-container {
+    width: 20vw;
+    display:flex;
+    flex-direction: column;
+
+    .input-res {
+        font-size: 20px;
+    }
+}
